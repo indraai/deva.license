@@ -1,0 +1,16 @@
+// ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:20758568792947085964 LICENSE.md
+::BEGIN:MAIN
+# {{profil.ename}}
+
+{{profile}}
+
+::begin:hidden
+#color = {{profile.color}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.bg}}
+::end:hidden
+copyright: (c)2025 Quinn Michaels
+::END:MAIN
+

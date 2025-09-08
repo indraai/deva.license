@@ -1,0 +1,138 @@
+{
+  "id": "41840925813499570000",
+  "name": "@indra.ai/deva.license",
+  "version": "0.0.0",
+  "license": "VLA:20758568792947085964 LICENSE.md",
+  "VLA": {
+    "uid": "20758568792947085964",
+    "time": "1757363101337",
+    "date": "Mon, Sep 8, 2025 - 1:25:01 PM",
+    "md5": "tc0Ex0fgG8Eq5WP8+DyjYA==",
+    "sha256": "gHWsEEMiHhZrdpC8sms/I+dbpdYXGJfaOO7hzjsN8GQ=",
+    "sha512": "+Ma7GF8bXW+A0rwMD8bT0XNW4xtiWiUcCSU1Nis/5GUG405RB4x91f07OmIpdV3uZ55vzPZvAG6Pm2W8aN0OFg=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/",
+    "company": "Inside The Net, Inc."
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
+  "description": "License Deva manages the Vedic License Agreement Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.license.git"
+  },
+  "keywords": [
+    "License",
+    "License Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.license/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.6.9",
+    "mongodb": "^6.13.0"
+  },
+  "data": {
+    "agent": {
+      "id": "71953601452985182612",
+      "key": "license",
+      "prompt": {
+        "emoji": "🪪 ",
+        "text": "License",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "42240578479834922088",
+        "name": "License Deva",
+        "hashtag": "#license",
+        "trigger": "@license",
+        "title": "Vedic License Agreement Manager",
+        "subtitle": "Taking care of licensing issues",
+        "describe": "License Deva is responsible for handling license issues related to the Vedic License Agreement (VLA) Framework.",
+        "tweet": "License Deva is manages the Vedic License Agreement (VLA) Frameowrk.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,LicenseDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "License Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.legal",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/assets/emoji.png",
+        "avatar": "/assets/avatar.png",
+        "image": "/assets/image.png",
+        "background": "/assets/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "created": "February 7, 2025 at 3:19 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "⭐️ READY!",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      },
+      "database": false,
+      "laws": {
+        "index": "laws_search",
+        "collection": "laws",
+        "content": false,
+        "limit": 5
+      }
+    }
+  }
+}
