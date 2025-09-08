@@ -40,10 +40,11 @@ const LICENSE = new Deva({
   },
   listeners: {
     'devacore:question'(packet) {
-      const echo = this.methods.echo(agent.key, 'q', packet);
+      console.log('agent', packet.q.agent.key);
+      this.methods.echo(agent.key, 'q', packet);
     },
     'devacore:answer'(packet) {
-      const echo = this.methods.echo(agent.key, 'a', packet);
+      this.methods.echo(agent.key, 'a', packet);
     }    
   },
   modules: {
@@ -175,7 +176,7 @@ const LICENSE = new Deva({
       });
     },
     /**************
-    method: searck
+    method: search
     params: packet
     describe: get history
     ***************/
@@ -214,12 +215,15 @@ const LICENSE = new Deva({
     },
   },
   onReady(data, resolve) {
-    console.log(this.license());
-    const {uri,database} = this.license().personal.mongo;
-    this.modules.client = new MongoClient(uri);
-    this.vars.database = database;
-    this.prompt(this.vars.messages.ready);
-    return resolve(data);
+    const {concerns, global, personal} = this.license(); // get the license config
+    this.vars.license = personal.VLA || false; // set the license into local vars
+
+    const {uri,database} = global.mongo; // set the datase
+    
+    this.modules.client = new MongoClient(uri); // set the client module for the database.
+    this.vars.database = database; // set the database into the local vars
+    this.prompt(this.vars.messages.ready); // prompt message ready
+    return resolve(data); // resolve data.
   },
   onError(err, data) {
     this.prompt(this.vars.messages.error);
