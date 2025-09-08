@@ -214,7 +214,8 @@ const LICENSE = new Deva({
     },
   },
   onReady(data, resolve) {
-    const {uri,database} = this.services().personal.mongo;
+    console.log(this.license());
+    const {uri,database} = this.license().personal.mongo;
     this.modules.client = new MongoClient(uri);
     this.vars.database = database;
     this.prompt(this.vars.messages.ready);

@@ -13,9 +13,9 @@
   },
   "author": {
     "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
-    "url": "https://indra.ai/",
-    "company": "Inside The Net, Inc."
+    "url": "https://indra.ai/"
   },
   "funding": [
     {
@@ -51,7 +51,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.9",
+    "@indra.ai/deva": "^1.6.10",
     "mongodb": "^6.13.0"
   },
   "data": {
@@ -98,7 +98,9 @@
         "background": "/assets/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "created": "February 7, 2025 at 3:19 AM"
+        "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
+        "modified": "Monday, September 8, 2025 - 3:02:42 PM"
       }
     },
     "vars": {
