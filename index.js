@@ -216,7 +216,7 @@ const LICENSE = new Deva({
   },
   onReady(data, resolve) {
     const {concerns, global, personal} = this.license(); // get the license config
-    this.vars.license = personal.VLA || false; // set the license into local vars
+    this.vars.license = personal || false; // set the license into local vars
 
     const {uri,database} = global.mongo; // set the datase
     
