@@ -4,7 +4,7 @@
   "version": "0.0.7",
   "license": "VLA:20758568792947085964 LICENSE.md",
   "VLA": {
-    "uid": "20758568792947085964",
+    "uid": 20758568792947085964,
     "time": 1757363101337,
     "date": "Mon, Sep 8, 2025 - 1:25:01 PM",
     "md5": "tc0Ex0fgG8Eq5WP8+DyjYA==",
@@ -56,7 +56,7 @@
   },
   "data": {
     "agent": {
-      "id": "71953601452985182612",
+      "id": 71953601452985182612,
       "key": "license",
       "prompt": {
         "emoji": "🪪 ",
@@ -75,7 +75,7 @@
         }
       },
       "profile": {
-        "id": "42240578479834922088",
+        "id": 42240578479834922088,
         "name": "License Deva",
         "hashtag": "#license",
         "trigger": "@license",
