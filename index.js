@@ -215,13 +215,14 @@ const LICENSE = new Deva({
     },
   },
   async onInit(data, resolve) {
-    const {concerns, global, personal} = this.license(); // get the license config
+    // check license
+    const {personal} = this.license(); // get the license config
     this.vars.license = await this.methods.license_check(personal, pkg.VLA);
     if (this.vars.license) {
-      return this.start(data, resolve);
+      return this.start(data, resolve); // start load if license valid
     }
     else {       
-      return  this.stop(data, resolve);
+      return  this.stop(data, resolve); // stop load if license is invalid.
     }
   },
   async onReady(data, resolve) {
