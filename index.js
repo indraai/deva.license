@@ -214,9 +214,18 @@ const LICENSE = new Deva({
       });
     },
   },
-  onReady(data, resolve) {
+  async onInit(data, resolve) {
     const {concerns, global, personal} = this.license(); // get the license config
-    this.vars.license = this.methods.license_check(personal, pkg.VLA);
+    this.vars.license = await this.methods.license_check(personal, pkg.VLA);
+    if (this.vars.license) {
+      return this.start(data, resolve);
+    }
+    else {       
+      return  this.stop(data, resolve);
+    }
+  },
+  async onReady(data, resolve) {
+    const {concerns, global} = this.license(); // get the license config
 
     const {uri,database} = global.mongo; // set the datase
     
