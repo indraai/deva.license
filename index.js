@@ -40,7 +40,6 @@ const LICENSE = new Deva({
   },
   listeners: {
     'devacore:question'(packet) {
-      console.log('agent', packet.q.agent.key);
       this.methods.echo(agent.key, 'q', packet);
     },
     'devacore:answer'(packet) {
