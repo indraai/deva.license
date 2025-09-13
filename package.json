@@ -1,15 +1,21 @@
 {
-  "id": "41840925813499570000",
+  "id": "69323297767269114978",
   "name": "@indra.ai/deva.license",
   "version": "0.0.40",
-  "license": "VLA:70667481520707725226 LICENSE.md",
+  "license": "VLA:69323297767269114978 LICENSE.md",
   "VLA": {
-    "uid": 70667481520707720000,
-    "time": 1757363101337,
-    "date": "Tuesday, September 9, 2025 - 4:50:53 AM",
-    "md5": "Mg8fAia1e9qunPuRRR2s3Q==",
-    "sha256": "u0nz/iXca9WNucqgVTrHoBP3/cIrcLbH8gKw1KPPkbo=",
-    "sha512": "cp1X8h5Xf8kKJT9RC/oWGwQ1ctA5x/+2AlKehNL8xAYZvLv4VGVsIqIEmBuqQ9caoUkMLy6PNeG3XvFr5pUK+g=="
+    "uid": "69323297767269114978",
+    "time": 1757786324323,
+    "date": "Saturday, September 13, 2025 - 10:58:44 AM",
+    "client": "DrDadce1mxTgdYp4OqRcBnOEBgiwGBgxce/oH4IyHFc=",
+    "agent": "y3ZoZFuEzqJE+tYFVcOs0HTVGA6Fd/JyEmHjTKMi3WI=",
+    "pkg": "A3axwOo9bPsQsRdrh0SPVzs1CSaHsnAFmWuRwX6pp38=",
+    "machine": "sLO72mkU9Mg3W+BxnTHQPWvTdr/qW6wT3+b6vxAuOaY=",
+    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
+    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "C6hgioHpYlLERqYAe/Hkpw==",
+    "sha256": "T+2M92ZE1tksVHiWs0OXJL4s3rPVGJS2Bc8gTQRvsoQ=",
+    "sha512": "8gWJAstU+flabwNGFi4lWBZVNC5l0itO4TyfxzlfY8mdJwOS8dwC8eKzlh4eS0cYXrOb1fI5fte4QFyNv2tbCA=="
   },
   "author": {
     "name": "Quinn A Michaels",
