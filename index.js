@@ -223,13 +223,14 @@ const LICENSE = new Deva({
   }, 
   async onReady(data, resolve) {
     const {concerns, global} = this.license(); // get the license config
-    
+    const {VLA} = this.info();
 
     const {uri,database} = global.mongo; // set the datase
     
     this.modules.client = new MongoClient(uri); // set the client module for the database.
     this.vars.database = database; // set the database into the local vars
-    this.prompt(this.vars.messages.ready); // prompt message ready
+
+    this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
     return resolve(data); // resolve data.
   },
   onError(err, data) {
