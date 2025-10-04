@@ -46,11 +46,14 @@
   },
   "keywords": [
     "License",
+    "Deva",
     "License Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.license/issues"
@@ -62,7 +65,7 @@
   },
   "data": {
     "agent": {
-      "id": 71953601452985180000,
+      "id": "71953601452985180000",
       "key": "license",
       "prompt": {
         "emoji": "🪪 ",
@@ -81,7 +84,7 @@
         }
       },
       "profile": {
-        "id": 42240578479834920000,
+        "id": "42240578479834920000",
         "name": "License Deva",
         "hashtag": "#license",
         "trigger": "@license",
@@ -94,19 +97,18 @@
         "gender": "DEVA",
         "style": "License Report Expert",
         "voice": "onyx",
-        "system": "Indra.ai.legal",
+        "system": "Indra.ai.license",
         "layout": "default",
         "color": "rgb(186,182,158)",
         "bgcolor": "rgb(29,28,20)",
-        "emoji": "/assets/emoji.png",
-        "avatar": "/assets/avatar.png",
-        "image": "/assets/image.png",
-        "background": "/assets/background.png",
+        "emoji": "/devas/license/emoji.png",
+        "avatar": "/devas/license/avatar.png",
+        "image": "/devas/license/image.png",
+        "background": "/devas/license/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
-        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
-        "modified": "Monday, September 8, 2025 - 3:02:42 PM"
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
     },
     "vars": {
