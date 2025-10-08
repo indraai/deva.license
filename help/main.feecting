@@ -5,12 +5,14 @@
 ::BEGIN:MAIN
 # {{profile.name}}
 
+img: {{profile.image}}
+
 {{profile}}
 
 ::begin:hidden
 #color = {{profile.color}}
 #bgcolor = {{profile.bgcolor}}
-#bg = {{profile.bg}}
+#bg = {{profile.background}}
 ::end:hidden
 copyright: (c)2025 Quinn Michaels
 ::END:MAIN
