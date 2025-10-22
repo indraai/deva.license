@@ -34,7 +34,7 @@
     }
   ],
   "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-  "description": "License Deva manages the Vedic License Agreement Framework",
+  "description": "License Deva is the Vedic License Agreement Manager, overseeing licensing issues with scholarly precision. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property for Quinn A Michaels, combining legal expertise, Vedic tradition, and meticulous recordkeeping to resolve disputes and ensure fair restitution.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -60,7 +60,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.12.0",
+    "@indra.ai/deva": "^1.12.1",
     "mongodb": "^6.13.0"
   },
   "data": {
