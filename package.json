@@ -53,14 +53,16 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.license/issues"
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.17.0",
+    "@indra.ai/deva": "^1.17.1",
     "mongodb": "^6.13.0"
   },
   "data": {
@@ -107,6 +109,7 @@
         "background": "/devas/license/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
+        "uid_warning": " That agreement which has been made contrary to the law or to the settled usage of the virtuous, can have no legal force, though it be established by proofs.",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
