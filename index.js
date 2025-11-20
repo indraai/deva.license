@@ -1,9 +1,9 @@
 "use strict";
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
+// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:38411800854088090659 LICENSE.md
+// Distributed under VLA:35305496127842400172 LICENSE.md
 
-// License Deva is responsible for the Vedic Tradition Laws.
+// License Deva
 import Deva from '@indra.ai/deva';
 import { MongoClient, ObjectId } from 'mongodb';
 
