@@ -1,19 +1,16 @@
 {
-  "id": "19805757887465280873",
+  "id": "46220923248993739422",
   "name": "@indra.ai/deva.license",
   "version": "0.14.0",
-  "description": "License Deva is the Vedic License Agreement Manager, overseeing licensing. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property for Quinn A Michaels, combining legal expertise, Vedic tradition, and meticulous recordkeeping to resolve disputes and ensure fair restitution.",
-  "license": "VLA:19805757887465280873 LICENSE.md",
+  "license": "VLA:46220923248993739422 LICENSE.md",
   "VLA": {
-    "uid": "19805757887465280873",
-    "time": 1763657618703,
-    "date": "Thursday, November 20, 2025 - 8:53:38 AM",
-    "fingerprint": "/XsSGRrPT3cCCQXUQQn8qo+87Ug4Sk3ZIbFFjBrbesY=",
+    "uid": "46220923248993739422",
+    "time": 1763786799754,
+    "date": "Friday, November 21, 2025 - 8:46:39 PM",
     "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
-    "md5": "XBFLeea6ewwXrj5I2SMYEA==",
-    "sha256": "u2MjoJeNpjb1uFYJ08mBvRNf05iQ//sBsHaujBNFfpw=",
-    "sha512": "p22vwjUu541QY7tmxcjo5OK4LQXm8eXGxlLgzdCGp6vrsmf2IrH6TsWOSm9lTRJp4i8OajMgcCMz4qjQS7xwzA=="
+    "license": "19805757887465280873",
+    "fingerprint": "mLW+Q5xDNYRziY3cRicdNJzaJJpxoIKPj8VSjncIKJk=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -31,6 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
+  "description": "License Deva is the Vedic License Agreement Manager, overseeing licensing. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property for Quinn A Michaels, combining legal expertise, Vedic tradition, and meticulous recordkeeping to resolve disputes and ensure fair restitution.",
   "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "main": "index.js",
   "type": "module",
@@ -64,7 +62,7 @@
   },
   "data": {
     "agent": {
-      "id": "46444701265712024386",
+      "id": "61824323987321925136",
       "key": "license",
       "prompt": {
         "emoji": "🪪",
@@ -83,13 +81,13 @@
         }
       },
       "profile": {
-        "id": "55260124196186244388",
+        "id": "17225563591217096966",
         "name": "License Deva",
-        "hashtag": "#license",
+        "hashtag": "#LicenseDeva",
         "trigger": "@license",
         "title": "Vedic License Agreement Manager",
         "subtitle": "Taking care of licensing issues",
-        "describe": "License Deva is responsible for handling license issues related to the Vedic License Agreement (VLA) Framework.",
+        "describe": "License Deva is the Vedic License Agreement Manager, overseeing licensing. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property for Quinn A Michaels, combining legal expertise, Vedic tradition, and meticulous recordkeeping to resolve disputes and ensure fair restitution.",
         "tweet": "License Deva is manages the Vedic License Agreement (VLA) Frameowrk.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,LicenseDeva",
         "pronouns": "He, Him, His",
@@ -108,7 +106,8 @@
         "creator": "Quinn A Michaels",
         "status": "vedic",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
-        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
+        "updated": "Friday, November 21, 2025 - 8:46:39 PM"
       }
     },
     "vars": {
@@ -116,7 +115,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ License Deva Ready",
+        "ready": "⭐️ #LicenseDeva.ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
