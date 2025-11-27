@@ -215,7 +215,7 @@ const LICENSE = new Deva({
     // return this.start if license_check passes otherwise stop.
     return license_check ? this.start(data, resolve) : this.stop(data, resolve);
   }, 
-  async onReady(data, resolve) {
+  onReady(data, resolve) {
     const {concerns, global} = this.license(); // get the license config
     const {VLA} = this.info();
 
