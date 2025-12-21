@@ -1,10 +1,10 @@
 "use strict";
+// License Deva
 // Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
 // Distributed under VLA:46220923248993739422 LICENSE.md
 // Saturday, November 22, 2025 - 9:49:11 AM
 
-// License Deva
 import Deva from '@indra.ai/deva';
 import { MongoClient, ObjectId } from 'mongodb';
 
@@ -31,7 +31,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const LICENSE = new Deva({
+const LicenseDeva = new Deva({
   info,
   agent,
   vars,
@@ -232,4 +232,4 @@ const LICENSE = new Deva({
     console.log(err);
   },
 });
-export default LICENSE
+export default LicenseDeva

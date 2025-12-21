@@ -57,7 +57,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.31",
+    "@indra.ai/deva": "^1.30.0",
     "mongodb": "^6.13.0"
   },
   "data": {
@@ -89,7 +89,7 @@
         "subtitle": "Taking care of licensing issues",
         "describe": "License Deva is the Vedic License Agreement Manager, overseeing licensing. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property for Quinn A Michaels, combining legal expertise, Vedic tradition, and meticulous recordkeeping to resolve disputes and ensure fair restitution.",
         "tweet": "License Deva is manages the Vedic License Agreement (VLA) Frameowrk.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,LicenseDeva",
+        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "License Report Expert",
@@ -115,7 +115,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ License Deva Ready",
+        "ready": "🪪 License Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
