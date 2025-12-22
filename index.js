@@ -44,7 +44,7 @@ const LicenseDeva = new Deva({
   modules: {
     client: false,
   },
-  deva: {},
+  devas: {},
   func: {
     /**************
     func: insert
