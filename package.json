@@ -29,7 +29,7 @@
     }
   ],
   "description": "License Deva is the Vedic License Agreement Manager, overseeing licensing. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property for Quinn A Michaels, combining legal expertise, Vedic tradition, and meticulous recordkeeping to resolve disputes and ensure fair restitution.",
-  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -57,7 +57,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.30.2",
+    "@indra.ai/deva": "^1.32.0",
     "mongodb": "^6.13.0"
   },
   "data": {
@@ -89,7 +89,7 @@
         "subtitle": "Taking care of licensing issues",
         "describe": "License Deva is the Vedic License Agreement Manager, overseeing licensing. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property for Quinn A Michaels, combining legal expertise, Vedic tradition, and meticulous recordkeeping to resolve disputes and ensure fair restitution.",
         "tweet": "License Deva is manages the Vedic License Agreement (VLA) Frameowrk.",
-        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
+        "hashtags": "#Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "License Report Expert",
@@ -105,9 +105,9 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "status": "vedic",
-        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
-        "updated": "Saturday, November 22, 2025 - 9:49:11 AM"
+        "updated": "Saturday, January 3, 2026 - 2:21:51 PM"
       }
     },
     "vars": {
