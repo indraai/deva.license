@@ -1,5 +1,5 @@
 {
-  "id": "44486733861528360966",
+  "id": "44105372688502635039",
   "name": "@indra.ai/deva.license",
   "version": "0.26.0",
   "license": "VLA:44105372688502635039 LICENSE.md",
@@ -78,7 +78,7 @@
   },
   "data": {
     "agent": {
-      "id": "61824323987321925136",
+      "id": "44105372688502635039",
       "key": "license",
       "prompt": {
         "emoji": "🪪",
@@ -97,7 +97,7 @@
         }
       },
       "profile": {
-        "id": "17225563591217096966",
+        "id": "44105372688502635039",
         "name": "License Deva",
         "hashtag": "#LicenseDeva",
         "trigger": "@license",
