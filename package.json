@@ -13,7 +13,7 @@
     "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -49,6 +49,7 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
+    "Quinn America Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -58,7 +59,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.37.2",
+    "@indra.ai/deva": "^1.39.0",
     "mongodb": "^6.13.0"
   },
   "data": {
@@ -90,7 +91,7 @@
         "subtitle": "Taking care of licensing issues",
         "describe": "License Deva developed by Quinn A Michaels is the Vedic License Agreement Manager, overseeing licensing for the Indra.ai Deva.world platform. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property rights, leveraging legal expertise, honoring Vedic tradition, and a meticulous recordkeeping to resolve disputes and ensure fair restitution.",
         "tweet": "License Deva is manages the Vedic License Agreement (VLA) Frameowrk.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
+        "hashtags": "#Quinn #QuinnAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "License Report Expert",
@@ -103,13 +104,13 @@
         "avatar": "/devas/license/avatar.png",
         "image": "/devas/license/image.png",
         "background": "/devas/license/background.png",
-        "owner": "Quinn A Michaels",
-        "creator": "Quinn A Michaels",
+        "owner": "Quinn America Michaels",
+        "creator": "Quinn America Michaels",
         "status": "vedic",
         "salute": "🤝🫡🪪🕉️🇺🇸",
-        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
-        "updated": " Saturday, February 28, 2026 - 5:16:19 PM"
+        "updated": "Wednesday, June 24, 2026 - 11:52:54 AM PST"
       }
     },
     "vars": {
