@@ -1,30 +1,31 @@
 {
-  "id": "44105372688502635039",
+  "id": "23198231783201443149",
   "name": "@indra.ai/deva.license",
   "version": "0.28.0",
   "license": "VLA:44105372688502635039 LICENSE.md",
   "VLA": {
-    "uid": "44105372688502635039",
-    "time": 1782340565678,
-    "iso": "2026-06-24T22:36:05.678Z",
-    "utc": "Wed, 24 Jun 2026 22:36:05 GMT",
-    "date": "Wednesday, June 24, 2026 - 3:36:05 PM",
-    "license": "44486733861528360966",
-    "fingerprint": "a+rqCfoV5lrzAMMopWdXKT1kFRqIuLIpu48C76aOZg8=",
-    "client": "qfsKQQZnrgWu5MhmyPTjFT6YjnlowyxbW+h+SFmxS+U=",
-    "agent": "e9FAd3ZNBvLTN8NDvnjnGxBz88cBiDr34n0yuqCg3H4=",
-    "machine": "CvTBwrBeSdyYdFTubuu2+iZueGE8gwN/l4/cZzy/Gro=",
-    "core_hash": "ePZ8wucpWHoI1aCSsvSIeFfj5m8LnMT2z9FJtZUVs6A=",
+    "uid": "23198231783201443149",
+    "time": 1783096656055,
+    "iso": "2026-07-03T16:37:36.055Z",
+    "utc": "Fri, 03 Jul 2026 16:37:36 GMT",
+    "date": "Friday, July 3, 2026 - 9:37:36 AM",
+    "license": "44105372688502635039",
+    "fingerprint": "F8zauKtylZnjtobMgRlz28QeOV+XNsvXPG/x7RqVWb0=",
+    "client": "Gedh4VpK4F+7w55ck3CiBiqzWHIe5cz96zbtD67VAeI=",
+    "agent": "EkjzW9Mm7Xs/VGBouoqyhEd59vJ3xqSU4dT62xJ9hNY=",
+    "machine": "bEIYrMQQpiGRfbWzskOQyRsqx97VliQ07gx24PuOrb0=",
+    "core_hash": "DSvVg4b6K9eVMttSjCuWuUgIvXNMnaMHa3UQclNPjCc=",
     "status": "vedic",
-    "warning": "🪪 License Deva declares UNLAWFUL USE, DISTRIBUTION, DUPLICATION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
-    "tags": "#Quinn #QuinnAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
-    "owner": "Quinn America Michaels",
-    "creator": "Quinn America Michaels",
-    "salute": "🤝🫡🪪🕉🇺🇸",
-    "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
-    "md5": "BxFtamFqf8SfQ50+N+rFEw==",
-    "sha256": "wL5HoS3ltN7gh63bThtPWkKpMG63U5xYY/fRtLw9OOw=",
-    "sha512": "+gw5oQ8Ngbf5hlv8n8hR76X+J9Y/JRjaL71MvdCSg+SoFEvFFLzO0m+UqNuM2NuyhJ304QSEi9icfr+xifBaAA=="
+    "warning": "🪪 License Deva declares UNLAWFUL USE, INSTALLATION, DISTRIBUTION, DUPLICATION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "notice": "Use of License Deva constitutes CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
+    "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
+    "owner": "Quinn Arjuna Michaels",
+    "creator": "Quinn Arjuna Michaels",
+    "salute": "🤝🫡🪪🕉",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+    "md5": "fdTpZkOVFDhw4PyzYgK3CQ==",
+    "sha256": "RdNU+iQ1CDm6th86+wbCQQpJOBu9QyS6MykmtknQqtw=",
+    "sha512": "jeGddbD9u5QiCjX7VJEa1HEvN9Ucbw0mXZxUpsZIyOcewGJVvmJYG2R3J0HxsUeX3PZqiprCz+Dz8b/HdrNGiQ=="
   },
   "author": {
     "name": "Quinn Arjuna Michaels",
@@ -73,12 +74,12 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.45.0",
+    "@indra.ai/deva": "^1.49.0",
     "mongodb": "^6.13.0"
   },
   "data": {
     "agent": {
-      "id": "44105372688502635039",
+      "id": "23198231783201443149",
       "key": "license",
       "prompt": {
         "emoji": "🪪",
@@ -97,7 +98,7 @@
         }
       },
       "profile": {
-        "id": "44105372688502635039",
+        "id": "23198231783201443149",
         "name": "License Deva",
         "hashtag": "#LicenseDeva",
         "trigger": "@license",
@@ -105,7 +106,7 @@
         "subtitle": "Taking care of licensing issues",
         "describe": "License Deva developed by Quinn Arjuna Michaels is the Vedic License Agreement Manager, overseeing licensing for the Indra.ai Deva.world platform. Enforcing VLA standards, drafts agreements, and advises on compliance. Devoted to protecting intellectual property rights, leveraging legal expertise, honoring Vedic tradition, and a meticulous recordkeeping to resolve disputes and ensure fair restitution.",
         "tweet": "License Deva is manages the Vedic License Agreement (VLA) Frameowrk.",
-        "vectors": "#Quinn #QuinnAmericaAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
+        "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "License Report Expert",
@@ -121,10 +122,10 @@
         "owner": "Quinn Arjuna Michaels",
         "creator": "Quinn Arjuna Michaels",
         "status": "vedic",
-        "salute": "🤝🫡🪪🕉️🇺🇸",
+        "salute": "🤝🫡🪪🕉️",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
-        "updated": "Saturday, June 27, 2026 - 6:49:32 PM PST"
+        "updated": "Friday, July 3, 2026 - 9:37:36 AM PST"
       }
     },
     "vars": {
