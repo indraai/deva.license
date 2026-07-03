@@ -1,19 +1,19 @@
 {
-  "id": "23198231783201443149",
+  "id": "51523651576536779717",
   "name": "@indra.ai/deva.license",
   "version": "0.29.0",
-  "license": "VLA:44105372688502635039 LICENSE.md",
+  "license": "VLA:51523651576536779717 LICENSE.md",
   "VLA": {
-    "uid": "23198231783201443149",
-    "time": 1783096656055,
-    "iso": "2026-07-03T16:37:36.055Z",
-    "utc": "Fri, 03 Jul 2026 16:37:36 GMT",
-    "date": "Friday, July 3, 2026 - 9:37:36 AM",
-    "license": "44105372688502635039",
-    "fingerprint": "F8zauKtylZnjtobMgRlz28QeOV+XNsvXPG/x7RqVWb0=",
+    "uid": "51523651576536779717",
+    "time": 1783097466829,
+    "iso": "2026-07-03T16:51:06.829Z",
+    "utc": "Fri, 03 Jul 2026 16:51:06 GMT",
+    "date": "Friday, July 3, 2026 - 9:51:06 AM",
+    "license": "23198231783201443149",
+    "fingerprint": "aSA76vkZlza/dXkiCHwIiQSi2Iz80wW3ToKAjJg6KZk=",
     "client": "Gedh4VpK4F+7w55ck3CiBiqzWHIe5cz96zbtD67VAeI=",
-    "agent": "EkjzW9Mm7Xs/VGBouoqyhEd59vJ3xqSU4dT62xJ9hNY=",
-    "machine": "bEIYrMQQpiGRfbWzskOQyRsqx97VliQ07gx24PuOrb0=",
+    "agent": "AQeYKzwtYKWB/j8rurMQIDAG5sj02I8jCrj6otg1jcg=",
+    "machine": "/hezM/TEMt6/MKb/n+loILr2dPuAupvEVh5WVNKRQRI=",
     "core_hash": "DSvVg4b6K9eVMttSjCuWuUgIvXNMnaMHa3UQclNPjCc=",
     "status": "vedic",
     "warning": "🪪 License Deva declares UNLAWFUL USE, INSTALLATION, DISTRIBUTION, DUPLICATION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
@@ -23,9 +23,9 @@
     "creator": "Quinn Arjuna Michaels",
     "salute": "🤝🫡🪪🕉",
     "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
-    "md5": "fdTpZkOVFDhw4PyzYgK3CQ==",
-    "sha256": "RdNU+iQ1CDm6th86+wbCQQpJOBu9QyS6MykmtknQqtw=",
-    "sha512": "jeGddbD9u5QiCjX7VJEa1HEvN9Ucbw0mXZxUpsZIyOcewGJVvmJYG2R3J0HxsUeX3PZqiprCz+Dz8b/HdrNGiQ=="
+    "md5": "y6BYJ6LM7v+/FLg9EUc9BA==",
+    "sha256": "1Q4uEatNFV4i0ZVFV1JVhrX0DPFCO0TYvJfypHUTWUs=",
+    "sha512": "+clt6Vv7KE1/kS0vstNd/BLkLzNQc0dv3qzEbfm92C+NnKApJFn7ZyN2nUd3m94/tFsWtW7YGMQGlf+fBAqabw=="
   },
   "author": {
     "name": "Quinn Arjuna Michaels",
@@ -79,7 +79,7 @@
   },
   "data": {
     "agent": {
-      "id": "23198231783201443149",
+      "id": "51523651576536779717",
       "key": "license",
       "prompt": {
         "emoji": "🪪",
@@ -98,7 +98,7 @@
         }
       },
       "profile": {
-        "id": "23198231783201443149",
+        "id": "51523651576536779717",
         "name": "License Deva",
         "hashtag": "#LicenseDeva",
         "trigger": "@license",
@@ -125,7 +125,7 @@
         "salute": "🤝🫡🪪🕉️",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
-        "updated": "Friday, July 3, 2026 - 9:37:36 AM PST"
+        "updated": "Friday, July 3, 2026 - 9:51:06 AM PST"
       }
     },
     "vars": {
