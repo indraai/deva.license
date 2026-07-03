@@ -1,31 +1,31 @@
 {
-  "id": "12381995424727149809",
+  "id": "51112406344245827002",
   "name": "@indra.ai/deva.license",
   "version": "0.31.1",
-  "license": "VLA:12381995424727149809 LICENSE.md",
+  "license": "VLA:51112406344245827002 LICENSE.md",
   "VLA": {
-    "uid": "12381995424727149809",
-    "time": 1783100913127,
-    "iso": "2026-07-03T17:48:33.127Z",
-    "utc": "Fri, 03 Jul 2026 17:48:33 GMT",
-    "date": "Friday, July 3, 2026 - 10:48:33 AM",
-    "license": "51523651576536779717",
-    "fingerprint": "7c+wpGP7qPuS92MvS9vdMqQRoH6oI1T5exXxtTCvr+0=",
+    "uid": "51112406344245827002",
+    "time": 1783104295812,
+    "iso": "2026-07-03T18:44:55.812Z",
+    "utc": "Fri, 03 Jul 2026 18:44:55 GMT",
+    "date": "Friday, July 3, 2026 - 11:44:55 AM",
+    "license": "12381995424727149809",
+    "fingerprint": "qqhA3rZvt0Q+KByb3MyaYRdq8Q01fZCnxGm+ZxQ3svk=",
     "client": "r6GDRq0oPNzsk63NPFqdM0/xLS3/FK+6B3FsDIP4h9U=",
-    "agent": "QFg5yVid5XidmPuobMuUTwx4X9XhevxsnoljSU5BXO0=",
-    "machine": "SmKC8XxeJWjTNvF1agT4cgwL6eLIPbgmbtx5YX0Hke0=",
-    "core_hash": "MiviLwGps3eo9yhcSVFJ3vDiqzaWgHMjSaEzi4pTKJs=",
+    "agent": "KdMX1yebO7nJjJWFSmg7+rTRIYSQRdA/vPfwG7JnbNc=",
+    "machine": "JhsLaaMfbgCeTkcSBEaV6oJyyaBXAbxmZfQWQ6wH7J8=",
+    "core_hash": "4ipTScvBdva+4PgaFnXwctKEYmv21Gb8aS49TflP3Ls=",
     "status": "vedic",
-    "warning": "🪪 License Deva declares UNLAWFUL  [object Object] constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
     "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
     "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
     "owner": "Quinn Arjuna Michaels",
     "creator": "Quinn Arjuna Michaels",
     "salute": "🤝🫡🪪🕉",
     "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
-    "md5": "s3RobrY7iYc4IbuH1CKhow==",
-    "sha256": "ozvZBlSJwdj5gdaude2ZrA2Nn/9gKoHMKMp0YEjUHxY=",
-    "sha512": "oPn4TJtUSGuy243spft15zI1XLQOxKnNtO/LOdMkxil+9I9sN/AM5XK+udukb/VlMH8M/zkbInIdpXupkY2UvQ=="
+    "md5": "Wf+bWm5dLCOaJl8ouWVoFg==",
+    "sha256": "GwObLAa7m0dkvOVVKLMX1A9c9n+1P7YywZivDOWUFtM=",
+    "sha512": "a+BUZeiw5GZwG1cC08UPcX8FuR0XRQeSYLgKav281pTdbEn0OYSGQ3I3Xd5S8uYGUYAWN82c2sqeYQx+EcLEwg=="
   },
   "author": {
     "name": "Quinn Arjuna Michaels",
@@ -74,12 +74,12 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.50.1",
+    "@indra.ai/deva": "^1.50.4",
     "mongodb": "^6.13.0"
   },
   "data": {
     "agent": {
-      "id": "12381995424727149809",
+      "id": "51112406344245827002",
       "key": "license",
       "prompt": {
         "emoji": "🪪",
@@ -98,7 +98,7 @@
         }
       },
       "profile": {
-        "id": "12381995424727149809",
+        "id": "51112406344245827002",
         "name": "License Deva",
         "vector": "#LicenseDeva",
         "trigger": "@license",
@@ -125,7 +125,7 @@
         "salute": "🤝🫡🪪🕉️",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
-        "updated": "Friday, July 3, 2026 - 10:48:33 AM PST"
+        "updated": "Friday, July 3, 2026 - 11:44:55 AM PST"
       }
     },
     "vars": {
