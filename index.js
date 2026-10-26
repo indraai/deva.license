@@ -165,7 +165,7 @@ const LicenseDeva = new Deva({
           });
         }).catch(err => {
           this.state('reject', 'add');
-          return this.error(err, packet, reject);
+          return this.err(err, packet, reject);
         });
       });
     },
@@ -203,7 +203,7 @@ const LicenseDeva = new Deva({
           });
         }).catch(err => {
           this.state('reject', 'search');
-          return this.error(packet, err, reject);
+          return this.err(packet, err, reject);
         });
       });
     },
