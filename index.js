@@ -1,6 +1,6 @@
 "use strict";
 // License Deva
-// Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.  
+// Copyright ©2000-2026 Quinn Michaels; All rights reserved.  
 // Owner Signature Required For Lawful Use.  
 // Distributed under VLA:72443233535603396055 LICENSE.md
 // Saturday, September 12, 2026 - 7:08:01 PM
@@ -130,7 +130,7 @@ const LicenseDeva = new Deva({
     method: add
     params: packet
     describe: add data to the knowledge base
-    example: #legal add:[id] [content to store in memory]
+    example: #license add:[id] [content to store in memory]
     params[1] is the law id to update blank if new.
     ***************/
     add(packet) {
@@ -190,7 +190,7 @@ const LicenseDeva = new Deva({
           const search_box = [
             `::begin:search:${packet.id}`,
             search_text,
-            `::end:search:${this.lib.hash(search_text)}`,
+            `::end:search:${this.hash(search_text)}`,
           ].join('\n');
           return this.question(`${this.askChr}feecting parse ${search_box}`);
         }).then(feecting => {
@@ -223,13 +223,15 @@ const LicenseDeva = new Deva({
     
     this.modules.client = new MongoClient(uri); // set the client module for the database.
     this.vars.database = database; // set the database into the local vars
-
+    
     this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
     return resolve(data); // resolve data.
   },
-  onError(err, data) {
+  
+  onError(err, data, reject) {
     this.prompt(this.vars.messages.error);
     console.log(err);
+    return reject(err);
   },
 });
 export default LicenseDeva
