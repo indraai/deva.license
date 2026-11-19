@@ -47,6 +47,8 @@ const LicenseDeva = new Deva({
   onInit(data, resolve) {
     const {personal} = this.license(); // get the license config
     const agent_license = this.info().VLA; // get agent license
+
+    this.context('license', `VLA:${agent_license.uid}`);
     const license_check = this.license_check(personal, agent_license); // check license
     if (license_check?.id) return this.start(data, resolve); // start if license valid
     this.prompt(license_check); // prompt invalid license check.
