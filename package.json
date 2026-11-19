@@ -1,31 +1,31 @@
 {
-  "id": "72443233535603396055",
+  "id": "34948472480559228528",
   "name": "@indra.ai/deva.license",
   "version": "0.33.9",
-  "license": "VLA:72443233535603396055 LICENSE.md",
+  "license": "VLA:34948472480559228528 LICENSE.md",
   "VLA": {
-    "uid": "72443233535603396055",
-    "time": 1789265281841,
-    "iso": "2026-09-13T02:08:01.841Z",
-    "utc": "Sun, 13 Sep 2026 02:08:01 GMT",
-    "date": "Saturday, September 12, 2026 - 7:08:01 PM",
-    "license": "14261496208318361895",
-    "fingerprint": "whI/4F3DfHsrczpu8an9OoNou1Shx7nNyWz6FyV69BE=",
-    "client": "PIaBM8Z9ftoviUzhur1HnhJcf2GFHhmoasCPszFu97U=",
-    "agent": "7PyAwe0nZy2X4J15HAXIbn02Lp4AJzpc06D53ycLs8U=",
-    "machine": "Dl9Ki1Qbc/KvIwf8O8otl8pFOVjL1xUGnU1UKoAB/uw=",
-    "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
+    "uid": "34948472480559228528",
+    "time": 1795117024130,
+    "iso": "2026-11-19T19:37:04.130Z",
+    "utc": "Thu, 19 Nov 2026 19:37:04 GMT",
+    "date": "Thursday, November 19, 2026 - 11:37:04 AM",
+    "license": "34948472480559228528",
+    "fingerprint": "nZksfhXcM5GwJHcCpK6ZGwmOlh5MYG90RQVmkD31wgE=",
+    "client": "6tX7FpTCwKzApo/WbdEa7ttuac3rwrTfFs9RXcvVab0=",
+    "agent": "v/z0PFt9BAqN0+pin9351mm+ZQ9pgL3rS1BgL7oz/is=",
+    "machine": "uZCKufBaNewmn4KZ8UzQ9QKDsYB1obKaHSepwQ2HOwM=",
+    "core_hash": "n7j9kHzPwo2XD0U/NzrCR/7Qfr80BttR5d7XkDxJbuI=",
     "status": "vedic",
-    "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
-    "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
-    "vectors": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
-    "owner": "Quinn Arjuna America Michaels",
-    "creator": "Quinn Arjuna America Michaels",
+    "warning": "⚡️ Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "notice": "Any USE or INTERACTION with Deva constitutes YOUR EXPLICIT CONSENT and AGREEMENT to be GOVERNED according to the LAWS of the 🕉VEDIC RELIGION and 🇺🇸THE UNITED STATES OF AMERICA.",
+    "vectors": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #License #LicenseDeva #VedicLicenseAgreement",
+    "owner": "Quinn Michaels",
+    "creator": "Quinn Michaels",
     "salute": "🤝🫡🪪🕉🇺🇸",
-    "copyright": "Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.",
-    "md5": "cssD6F+OWfgwSfonjdESPg==",
-    "sha256": "vYElrkG/XAoOp+sk/xypuXX2003gU4MhofoOFTxpP/g=",
-    "sha512": "Uj+NkPQeQo4PxOFkkjazR3JIXFl9XyuPylKZxQcnXxS9mIZdCi3HDpD8nWGueRTlN/L7LTLO3Ksa42p/hh89Kg=="
+    "copyright": "Copyright ©2000-2026 Quinn Michaels; All rights reserved.",
+    "md5": "TYBrY+AiXgQLHGZ5TL69tw==",
+    "sha256": "T5SqRRsHikFpPzl80IV4xl2kLi7f6Pe6/wzBabaSwRs=",
+    "sha512": "BRlR+zc7QFgj13qBno/FC5XbBSuDaQwBqU60Gy8liYkSVSLXPMYhi5vM2r9X7HH1gLaR75wTmrbXXlVENoeBWg=="
   },
   "author": {
     "name": "Quinn Michaels",
@@ -77,7 +77,7 @@
   },
   "data": {
     "agent": {
-      "id": "72443233535603396055",
+      "id": "34948472480559228528",
       "key": "license",
       "prompt": {
         "emoji": "🪪",
@@ -96,7 +96,7 @@
         }
       },
       "profile": {
-        "id": "72443233535603396055",
+        "id": "34948472480559228528",
         "name": "License Deva",
         "vector": "#LicenseDeva",
         "trigger": "@license",
@@ -123,7 +123,7 @@
         "salute": "🤝🫡🪪🕉️🇺🇸",
         "copyright": "Copyright ©2000-2026 Quinn Michaels; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
-        "updated": "Saturday, September 12, 2026 - 7:08:01 PM PST"
+        "updated": "Thursday, November 19, 2026 - 11:37:04 AM PST"
       }
     },
     "vars": {

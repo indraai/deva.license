@@ -2,8 +2,8 @@
 // License Deva
 // Copyright ©2000-2026 Quinn Michaels; All rights reserved.  
 // Owner Signature Required For Lawful Use.  
-// Distributed under VLA:72443233535603396055 LICENSE.md
-// Saturday, September 12, 2026 - 7:08:01 PM
+// Distributed under VLA:34948472480559228528 LICENSE.md
+// Thursday, November 19, 2026 - 11:37:04 AM PST
 
 import Deva from '@indra.ai/deva';
 
@@ -50,6 +50,12 @@ const LicenseDeva = new Deva({
 
     this.context('license', `VLA:${agent_license.uid}`);
     const license_check = this.license_check(personal, agent_license); // check license
+    
+    const p = this.hash(personal, 'sha256');
+    const a = this.hash(agent_license, 'sha256');
+    console.log(p, a);
+    console.log(license_check);
+
     if (license_check?.id) return this.start(data, resolve); // start if license valid
     this.prompt(license_check); // prompt invalid license check.
     return this.stop().then(() => resolve(license_check)); // stop then resolve license_check.
