@@ -50,11 +50,6 @@ const LicenseDeva = new Deva({
 
     this.context('license', `VLA:${agent_license.uid}`);
     const license_check = this.license_check(personal, agent_license); // check license
-    
-    const p = this.hash(personal, 'sha256');
-    const a = this.hash(agent_license, 'sha256');
-    console.log(p, a);
-    console.log(license_check);
 
     if (license_check?.id) return this.start(data, resolve); // start if license valid
     this.prompt(license_check); // prompt invalid license check.
