@@ -9,7 +9,8 @@
 
 img: {{profile.image}}
 
-{{profile}}
+name: {{profile.name}}
+describe: {{profile.describe}}
 
 talk: #license help main:license
 
