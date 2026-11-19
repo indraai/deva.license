@@ -1,7 +1,7 @@
 {
   "id": "72443233535603396055",
   "name": "@indra.ai/deva.license",
-  "version": "0.33.4",
+  "version": "0.33.3",
   "license": "VLA:72443233535603396055 LICENSE.md",
   "VLA": {
     "uid": "72443233535603396055",
@@ -73,8 +73,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.64.52",
-    "mongodb": "^6.13.0"
+    "@indra.ai/deva": "^1.65.30"
   },
   "data": {
     "agent": {
@@ -110,12 +109,12 @@
         "gender": "DEVA",
         "style": "License Report Expert",
         "voice": "onyx",
-        "system": "Indra.ai.license",
+        "system": "Indra.ai",
         "layout": "default",
         "color": "rgb(186,182,158)",
         "bgcolor": "rgb(29,28,20)",
         "emoji": "/devas/license/emoji.png",
-        "avatar": "/devas/license/avatar.png",
+        "avatar": "/devas/liasscense/avatar.png",
         "image": "/devas/license/image.png",
         "background": "/devas/license/background.png",
         "owner": "Quinn Michaels",
@@ -152,13 +151,6 @@
       },
       "ask": {
         "history": []
-      },
-      "database": false,
-      "laws": {
-        "index": "laws_search",
-        "collection": "laws",
-        "content": false,
-        "limit": 5
       }
     }
   }
