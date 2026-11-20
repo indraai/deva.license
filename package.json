@@ -138,9 +138,7 @@
         "error": "❌ ERROR!",
         "invalid_license": "💣 Invalid License"
       },
-      "context": {
-        "license": "📋 Checking License"
-      },
+      "context": {},
       "ask": {
         "history": []
       }
