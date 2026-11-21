@@ -83,7 +83,7 @@ If the check fails, License Deva prompts the message, stops, and `init()` resolv
 | `❌ Bad Personal VLA` | `devas` is there but has no `license` entry. |
 | `❌ Invalid VLA Check` | The `license` entry doesn't match this package's VLA, or the client has no `license` feature or no `devas`. |
 
-A stopped Deva stays stopped. To try again, start a new process.
+A stopped Deva can start again. Call `init()` again with a client whose license data passes the check.
 
 ## Test it
 
