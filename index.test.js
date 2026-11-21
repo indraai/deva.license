@@ -96,6 +96,6 @@ test('license refuses to start with a bad agent VLA', async () => {
 	REFUSE.listen('devacore:prompt', packet => prompts.push(packet.text));
 	const result = await REFUSE.init(client({uid: 'bad'}));
 	assert.equal(result, REFUSE._messages.checkVLA, 'init answers with the invalid VLA message');
-	assert.ok(prompts.includes(REFUSE._messages.checkVLA), 'onInit prompts the invalid VLA message');
+  assert.ok(prompts.includes(REFUSE._messages.checkVLA), 'core prompts the invalid VLA message');
 	assert.equal(REFUSE._active, false, 'the Deva stays offline');
 });
