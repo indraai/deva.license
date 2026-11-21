@@ -89,7 +89,7 @@ test('license stops through the full chain', async () => {
 	assert.equal(data.value, 'license');
 });
 
-// stop() is final, so the refusal check loads a fresh License Deva instance from the same file.
+// the refusal check loads a fresh License Deva instance from the same file, so it starts from a clean state.
 test('license refuses to start with a bad agent VLA', async () => {
 	const {default: REFUSE} = await import('./index.js?refuse');
 	const prompts = [];
